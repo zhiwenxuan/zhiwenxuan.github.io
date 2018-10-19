@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: lizq0604@gmail.com
 description: "Simple, Persistent Pursuit."
 keyword: "BY, BY Blog, 李镇杞的博客, ZhenqiLi, 李镇杞, Front End"
-url: "http://zhiwenxuan.github.io"          # your host, for absolute URL
+url: "http://zhenqili.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhiwenxuan/zhiwenxuan.github.io.git" # you code repository
 
@@ -98,16 +98,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "MDN",
+        href: "https://developer.mozilla.org/en-US/docs/Web"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Vue.js",
+        href: "https://vuejs.org/v2/guide/index.html"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Github",
+        href: "https://github.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "zhenqili-blog",
+        href: "https://blog.csdn.net/lizhenqii"
     }
 ]
