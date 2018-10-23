@@ -5,11 +5,12 @@ permalink: /resume
 ---
 
 ## 联系方式
- 手机(微信同号)：159-8948-1708
+手机(微信同号)：159-8948-1708
 
- Email：lizq0604@gmail.com
-​
+Email：lizq0604@gmail.com
+ 
 ## 个人信息
+
 - 李镇杞/男/1993
 
 - 本科/深圳大学计算机与软件学院
@@ -25,8 +26,9 @@ permalink: /resume
 - 期望薪资：16k~24k
 
 - 期望城市：深圳
-​
+
 ## 技能清单
+
 - 精通HTML5，CSS3，ES5/ES6等前端基础，对ES5 闭包、作用域、原型链；ES6 Promise、Class、结构赋值；ES7 includes；ES8 异步函数async/await等有丰富的实战。
 
 - 掌握Vuejs + Vue-Router + Vuex全家桶使用以及熟悉Vue MVVM框架实现原理，掌握Bootstrap，了解Reactjs、Angularjs等主流框架。
@@ -40,6 +42,7 @@ permalink: /resume
 - 对IOS开发有一定的实战。
 
 ## 工作经历
+
 ### [深圳市聚蜂智能科技有限公司](https://www.bees360.com) （ 2017年9月 ~ 至今 ）
 
 #### IOS自动飞行APP项目(Bees360)  2018.06-2018.08 / 主要成员
