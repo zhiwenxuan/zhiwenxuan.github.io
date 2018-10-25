@@ -8,7 +8,7 @@ permalink: /resume
 # 联系方式
 
 - 手机：159-8948-1708
-- Email：lzq0604@gmail.com
+- Email：lizq0604@gmail.com
 
 # 个人信息
 
