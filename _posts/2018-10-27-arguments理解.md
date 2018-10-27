@@ -101,3 +101,4 @@ arguments 对象可以与[剩余参数](https://developer.mozilla.org/zh-CN/docs
     func(); // undefined
 
 ```
+[参考](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Functions/arguments)
